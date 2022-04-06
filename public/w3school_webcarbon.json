@@ -1,0 +1,15 @@
+{
+    "url": "https://www.w3schools.com/",
+    "statistics": {
+      "co2": {
+        "grid": {
+          "grams": 0.6762067744560774,
+          "litres": 0.37610620795247024
+        },
+        "renewable": {
+          "grams": 0.6128379713207927,
+          "litres": 0.34086047964862487
+        }
+      }
+    }
+  }

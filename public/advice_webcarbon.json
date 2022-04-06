@@ -1,0 +1,15 @@
+{
+    "url": "https://adviceas.dk/",
+    "statistics": {
+      "co2": {
+        "grid": {
+          "grams": 1.120318919889396,
+          "litres": 0.623121383242482
+        },
+        "renewable": {
+          "grams": 1.015331404583429,
+          "litres": 0.5647273272293032
+        }
+      }
+    }
+  }

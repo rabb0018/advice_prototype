@@ -1,0 +1,15 @@
+{
+    "url": "https://developer.mozilla.org/en-US/",
+    "statistics": {
+      "co2": {
+        "grid": {
+          "grams": 0.3432690101274056,
+          "litres": 0.19092622343286303
+        },
+        "renewable": {
+          "grams": 0.31110052683661815,
+          "litres": 0.17303411302652702
+        }
+      }
+    }
+  }
