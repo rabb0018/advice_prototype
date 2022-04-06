@@ -9,4 +9,4 @@ import './rangeslider'
 // Fetch and display the screenshot image
 // Set up restDB
 // Make a dropdown industry menu
-//
+// Woooh i commited something
